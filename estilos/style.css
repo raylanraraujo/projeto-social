@@ -40,11 +40,11 @@ section#telefone{
 
 iframe#tela {
     position: relative;
-    top: 13px;
+    top: 12px;
     left: 14px;
-    height: 475px;
+    height: 477px;
     width: 220px;
-    border-radius: 26px;
+    border-radius: 28px;
 }
 
 section#redes-sociais{
