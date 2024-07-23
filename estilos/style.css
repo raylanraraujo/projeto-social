@@ -31,9 +31,18 @@ section#telefone{
     top: 50%;
     left: 50%;
     transform: translate(-50% , -50%);
-    
+
     height: 500px;
     width: 248px;
     background-image: url(../imagens/frame-iphone-13.png);
     background-repeat: no-repeat;
+}
+
+iframe#tela {
+    position: relative;
+    top: 13px;
+    left: 14px;
+    height: 475px;
+    width: 220px;
+    border-radius: 26px;
 }
